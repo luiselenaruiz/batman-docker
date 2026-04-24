@@ -1,3 +1,4 @@
+<img width="779" height="989" alt="Captura de pantalla 2026-04-24 160559" src="https://github.com/user-attachments/assets/29e5da90-c060-40fa-adae-9c069b5dcabf" />
 # Proyecto Docker Batman
 
 ## Descripción
